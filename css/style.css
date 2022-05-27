@@ -1,0 +1,13 @@
+#main {
+  height: 60vh;
+  position: relative;
+}
+
+#image {
+  height: 40%;
+  max-width: 40%;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(50%, -50%);
+}
